@@ -1,0 +1,18 @@
+public class catanBoardSetup{
+    
+    private static final int boardPieces= 19;
+    private static final int boardPositions=53;
+
+    public static void main(String[] args){
+
+        //use an array list to add user input of spaces
+        //create scanner method
+        //create method for filling in of board
+        int[][] board={};
+
+        //create method to compute values array from board arraylist
+        int[][] boardValues={};
+
+
+    }
+}
